@@ -1,0 +1,68 @@
+#logo{
+    
+    float: left;
+}
+th, td {
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+padding: 7px;
+text-align: center;
+width: 20;
+font-size:18px;
+border: 1px solid rgb(196, 137, 164);
+font-family: Arial, sans-serif;
+}
+th {
+    color: rgb(196, 137, 164);
+}
+.im {
+   border: 5px solid rgb(196, 137, 164);
+}
+h2{
+    color: rgb(65, 165, 132);
+}
+h1{
+    color: rgb(38, 138, 104);
+    display: inline;
+}
+p {
+    size: 50px;
+
+}
+table{
+    background-color: rgb(250, 239, 220);
+}
+a{
+    color: rgb(196, 137, 164);
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    line-height: 25px;
+}
+#right {
+    position: fixed;
+}
+div {
+    position: absolute;
+    right: 150px;
+}
+#right, ul, li {
+    padding-bottom: 15px;
+}
+video {
+    padding-bottom: 5px;
+    border: 10px inset rgb(38, 138, 104);
+}
+form {
+    font-size: medium;
+    font-family: 'Lato', sans-serif ;
+}
+#submission {
+    width: 200px;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    
+    color:  rgb(196, 137, 164);
+}
